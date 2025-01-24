@@ -1,0 +1,14 @@
+{
+  "name": "holiday-assign-dec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwindcss -i ./src/input.css -o ./Public/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
